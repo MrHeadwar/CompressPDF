@@ -3,7 +3,7 @@
 Multifile version of Ricardo Ferreira's [Compress-PDF](https://launchpad.net/compress-pdf).
 
 ## Installation
-This is a nautilus script, meant to be copied to the `~/.local/share/nautilus/scripts/` folder.
+This is a nautilus script, meant to be copied to the `~/.local/share/nautilus/scripts/` folder, with execution rights (properties or chmod +x).
 Needs zenity and ghostscript (`sudo apt-get install zenity ghostscript`).
 
 ## Usage
